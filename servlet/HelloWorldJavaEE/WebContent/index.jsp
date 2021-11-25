@@ -7,7 +7,7 @@
 <title>Hello World java JSP</title>
 </head>
 <body>
-<h1>Hello WORLD, Lets go </h1>
+<h1>Hello WORLD +2</h1>
 
 <h1>Hello JSP and Servlet!</h1>
 <form action="helloServlet" method="post">

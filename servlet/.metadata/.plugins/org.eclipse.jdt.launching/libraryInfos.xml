@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\envMS" version="1.8.0_311">
+<bootpath>
+<entry path="C:\envMS\jre\lib\resources.jar"/>
+<entry path="C:\envMS\jre\lib\rt.jar"/>
+<entry path="C:\envMS\jre\lib\sunrsasign.jar"/>
+<entry path="C:\envMS\jre\lib\jsse.jar"/>
+<entry path="C:\envMS\jre\lib\jce.jar"/>
+<entry path="C:\envMS\jre\lib\charsets.jar"/>
+<entry path="C:\envMS\jre\lib\jfr.jar"/>
+<entry path="C:\envMS\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\envMS\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\envMS\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
